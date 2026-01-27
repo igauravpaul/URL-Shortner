@@ -20,10 +20,5 @@ Built with **Go** — lightweight, fast, and ready to deploy!
 - Easily extendable: track clicks, create custom aliases, or set expiration dates.
 
 ---
-
-## 🔧 How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/URL-Shortner.git
+  
 
